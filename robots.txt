@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://juncoet.github.io/sitemap.html.gz
+Sitemap: https://juncoet.github.io/app/sitemap.html.gz
+Sitemap: https://juncoet.github.io/assets/sitemap.html.gz
+Sitemap: https://juncoet.github.io/css/sitemap.html.gz
+Sitemap: https://juncoet.github.io/data/sitemap.html.gz
+Sitemap: https://juncoet.github.io/includes/sitemap.html.gz
+Sitemap: https://juncoet.github.io/item/sitemap.html.gz
+Sitemap: https://juncoet.github.io/src/sitemap.html.gz
